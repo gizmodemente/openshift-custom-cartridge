@@ -51,4 +51,3 @@ Endpoints:
     Options:
       health: true
 
-Source-Url: https://github.com/gizmodemente/openshift-custom-cartridge.git
