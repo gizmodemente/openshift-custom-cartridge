@@ -51,4 +51,4 @@ Endpoints:
     Options:
       health: true
 
-Source-Url: https://github.com/gshipley/openshift-cartridge-logentries.git
+Source-Url: https://github.com/gizmodemente/openshift-custom-cartridge.git
